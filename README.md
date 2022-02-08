@@ -2,10 +2,10 @@
 ## Weitere Aufgaben
 
 - [x] [Externer Link](#externer-link)
-- [x] Interner Link
-- [x] Bilder
-- [x] Emojis
-- [x] Tabelle
+- [x] [Interner Link](#interner-link/bilder)
+- [x] [Bilder](#interner-link/bilder)
+- [x] [Emojis](#emojis)
+- [x] [Tabelle](#tabelle)
 
 ## Externer Link
 [Externer Link zur Github Dokumentation](https://docs.github.com/de)
