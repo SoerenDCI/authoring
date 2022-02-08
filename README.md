@@ -14,3 +14,5 @@
 [Externer Link zur Github Dokumentation](https://docs.github.com/de)
 
 [Interner Link](/image/authoring.jpg)
+
+:rofl: 	:joy: :heart_eyes: :nerd_face:
