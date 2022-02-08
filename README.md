@@ -2,15 +2,15 @@
 ## Weitere Aufgaben
 
 - [x] [Externer Link](#externer-link)
-- [x] [Interner Link](#interner-link/bilder)
-- [x] [Bilder](#interner-link/bilder)
+- [x] [Interner Link](#interner-link-und-bilder)
+- [x] [Bilder](#interner-link-und-bilder)
 - [x] [Emojis](#emojis)
 - [x] [Tabelle](#tabelle)
 
 ## Externer Link
 [Externer Link zur Github Dokumentation](https://docs.github.com/de)
 
-## Interner Link/Bilder
+## Interner Link und Bilder
 [Interner Link](/image/authoring.jpg)
 
 ## Emojis
