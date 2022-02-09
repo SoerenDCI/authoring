@@ -11,7 +11,7 @@
 [Externer Link zur Github Dokumentation](https://docs.github.com/de)
 
 ## Interner Link und Bilder
-[![Interner Link](/image/authoring.jpg)](/image/authoring.jpg)
+![Interner Link](/image/authoring.jpg)
 
 ## Emojis
 :rofl: 	:joy: :heart_eyes: :nerd_face:
