@@ -8,7 +8,7 @@
 - [x] [*Tabelle*](#tabelle)
 
 ## Externer Link
-[Externer Link zur Github Dokumentation](https://docs.github.com/de/?target=_blank)
+[Externer Link zur Github Dokumentation](https://docs.github.com/de" target="_blank)
 
 ## Interner Link und Bilder
 ![Interner Link](/image/authoring.jpg)
