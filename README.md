@@ -19,5 +19,5 @@
 ## Tabelle
  **Name**          | **Alter** | **Fertig** 
  ------------------|-----------|------------
-Max Mustermann     |42         |<ul><li>- [x] ja</li></ul>
+Max Mustermann     |42         |<ul><li>- [x] ja</li><li>[ ] nein</li></ul>
 Erika Mustermann   |42         |<ul><li>- [ ] ja</li></ul>
