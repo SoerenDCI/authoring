@@ -18,6 +18,5 @@
 
 ## Tabelle
  **Name**          | **Alter** | **Fertig** 
---------1-----------|-----------|------------
 Max Mustermann     |42         |<ul><li>- [x] ja</li></ul>
 Erika Mustermann   |42         |<ul><li>- [ ] ja</li></ul>
